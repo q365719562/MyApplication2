@@ -7,7 +7,7 @@ import com.tencent.tinker.lib.tinker.TinkerInstaller;
 import com.tencent.tinker.loader.app.ApplicationLike;
 
 /**
- * Created by Nick on 2017/9/13.
+ * Created by Nick on 2017/9/13.222
  */
 
 public class TinkerManager {

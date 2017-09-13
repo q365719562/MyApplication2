@@ -39,6 +39,7 @@ android {
 }
 def releaseTime() {    return new Date().format("yyyy-MM-dd", TimeZone.getTimeZone("UTC"))
 }
+
 def gitSha() {
     try {
         String gitRev = 'git rev-parse --short HEAD'.execute().text.trim()
